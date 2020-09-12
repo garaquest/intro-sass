@@ -1,0 +1,22 @@
+{
+  "name": "intro-sass",
+  "version": "1.0.0",
+  "description": "introduction of learning sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garaquest/intro-sass.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "garaquest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garaquest/intro-sass/issues"
+  },
+  "homepage": "https://github.com/garaquest/intro-sass#readme"
+}
